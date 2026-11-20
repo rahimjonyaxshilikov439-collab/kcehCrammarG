@@ -1,0 +1,6 @@
+{
+  "name": "GrammarCheck — Grammarway 3 Test Tizimi",
+  "description": "Grammarway 3 (Intermediate) kitobining 1–16-unitlari boʻyicha oʻzbek tilidagi interaktiv test, tahlil va oʻqituvchi nazorat platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
